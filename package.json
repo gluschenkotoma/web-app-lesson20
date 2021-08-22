@@ -1,0 +1,24 @@
+{
+  "name": "web-app-lesson20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluschenkotoma/web-app-lesson20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gluschenkotoma/web-app-lesson20/issues"
+  },
+  "homepage": "https://github.com/gluschenkotoma/web-app-lesson20#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3"
+  }
+}
